@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">jx-navigation</string>
+    <string name="title_home">主页</string>
+    <string name="title_all">所有</string>
+    <string name="title_me">我的</string>
+    <string name="tv_all">所有-横屏</string>
+    <string name="tv_me">我的-横屏</string>
+    <string name="tv_主页">主页-横屏</string>
+</resources>
